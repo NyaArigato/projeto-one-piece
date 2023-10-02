@@ -26,7 +26,7 @@ botoes.forEach((botao, indece) => {
         botao.classList.add("selecionado");
 
         ressekecionarPersonagem();
-        personagens[indece].classList.add("selecionado")
+        personagens[indece].classList.add("selecionado");
     });
 });
 
